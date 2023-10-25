@@ -1,6 +1,6 @@
 # myCodewars
 
-A repository filled with codewars challenges (kata). Completing and Pushing at least 5 solutions every week.
+A repository filled with codewars challenges (kata). Completing and Pushing multiple solutions every week.
 
 ## How It's Made:
 
@@ -14,4 +14,4 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 
 ## Lessons Learned:
 
-The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve.
+The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to learn from it and continue to improve.
